@@ -34,25 +34,31 @@ https://aka.ms/vs/16/release/vs buildtools.exe
 While installation, please select "Visual Studio Build Tools 2019" for installing
 all necessary packages for the tool to function with SHAP.
 
- Step 1 : Open Start Menu -> Anaconda -> Anaconda Prompt
- Step 2 : Execute the below command and follow the instructions given on screen
+1) Step 1 : Open Start Menu -> Anaconda -> Anaconda Prompt
+
+2) Step 2 : Execute the below command and follow the instructions given on screen
 in the Anaconda Prompt to create environment and install some of the necessary
 packages given above -
 "conda create -n rp python=3.7.6 catboost=0.23.2 lightgbm=2.3.1 matplotlib=3.2.2
 numpy=1.18.5 pandas=1.0.5 plotly=4.8.2 pyspark=3.0.0 scikit-learn=0.23.1 shap=0.35.0
 jupyter"
- Step 3 : Once the environment in created, navigate to the environment in Anaconda
+
+3) Step 3 : Once the environment in created, navigate to the environment in Anaconda
 Prompt by executing the command -
 "conda activate rp"
- Step 4 : Install the osmnx package by executing the below command -
+
+4) Step 4 : Install the osmnx package by executing the below command -
 "conda install -c conda-forge osmnx=0.15.1"
- Step 5 : Install the tensor
+
+5) Step 5 : Install the tensor
 ow and xgboost packages by executing the below com-
 mand one after the other -
 "pip install 'tensor
 ow==2.2.0'"
 "pip install 'xgboost==1.1.1'"
- Step 6 : Once the installation is complete navigate to the folder where the code
-les have been downloaded in Anaconda Prompt and execute the below command
+
+6) Step 6 : Once the installation is complete navigate to the folder where the code
+files have been downloaded in Anaconda Prompt and execute the below command
 "jupyter notebook"
- NOTE : 'rp' is the name of the environment that is created in anaconda
+
+NOTE : 'rp' is the name of the environment that is created in anaconda
