@@ -29,7 +29,7 @@ forth-coming sections.
 
 NOTE : Install "Microsoft Visual C++ 14.0" in your machine as this is a pre-requisite for the package "SHAP" to function. The installation file is
 provided in the following link -
-https://aka.ms/vs/16/release/vs buildtools.exe
+https://aka.ms/vs/16/release/vs_buildtools.exe
 
 While installation, please select "Visual Studio Build Tools 2019" for installing
 all necessary packages for the tool to function with SHAP.
