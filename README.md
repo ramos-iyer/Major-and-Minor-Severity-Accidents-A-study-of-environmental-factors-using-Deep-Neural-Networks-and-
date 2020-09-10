@@ -97,13 +97,13 @@ When Executing the code files, please execute only in the sequence given below -
 
 ### Screenshots
 
-![Screenshot2](/images/severity category.png)
-![Screenshot3](/images/length division.png)
-![Screenshot4](/images/Minor RF.png)
-![Screenshot5](/images/Major RF.png)
-![Screenshot6](/images/feat imp shap.png)
-![Screenshot7](/images/minor class feat imp.png)
-![Screenshot8](/images/major class feat imp.png)
+![Screenshot2](/images/severity_category.png)
+![Screenshot3](/images/length_division.png)
+![Screenshot4](/images/Minor_RF.png)
+![Screenshot5](/images/Major_RF.png)
+![Screenshot6](/images/feat_imp_shap.png)
+![Screenshot7](/images/minor_class_feat_imp.png)
+![Screenshot8](/images/major_class_feat_imp.png)
 
 <a id='config'></a>
 
