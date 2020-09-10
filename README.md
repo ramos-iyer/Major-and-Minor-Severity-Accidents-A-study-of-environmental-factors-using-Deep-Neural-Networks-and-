@@ -32,6 +32,8 @@ Owing to the increase in number of vehicles and infrastructure, the need for sev
 
 The below image shows the methodology followed in order to implement this project and gather the insights from the data:
 
+![Screenshot1](/images/flow.png)
+
 <a id='components'></a>
 
 ### Components
@@ -95,7 +97,13 @@ When Executing the code files, please execute only in the sequence given below -
 
 ### Screenshots
 
-
+![Screenshot2](/images/severity category.png)
+![Screenshot3](/images/length division.png)
+![Screenshot4](/images/Minor RF.png)
+![Screenshot5](/images/Major RF.png)
+![Screenshot6](/images/feat imp shap.png)
+![Screenshot7](/images/minor class feat imp.png)
+![Screenshot8](/images/major class feat imp.png)
 
 <a id='config'></a>
 
