@@ -95,6 +95,8 @@ When Executing the code files, please execute only in the sequence given below -
 
 ### Screenshots
 
+
+
 <a id='config'></a>
 
 ### System Configuration Steps
@@ -162,6 +164,6 @@ Below are the files and the folders that are part of the project implementation:
 
 ### Credits and Acknowledgements
 
-* [S.Moosavi](https://www.themoviedb.org/) for providing the `US_Accidents` data used for this project.
+* [S. Moosavi](https://smoosavi.org/datasets/us_accidents) for providing the `US_Accidents` data used for this project.
 * [OSM(Open Street Maps)](https://osmnx.readthedocs.io/en/stable/) for providing the `Road Demographics` data used for this project.
 * [NCI](https://www.ncirl.ie/) for the guidance as part of their full-time masters in data analytics course subject 'Research Thesis'
